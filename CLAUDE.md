@@ -11,5 +11,3 @@ Built step by step with the Claude Code Ladder (see .claude/ladder-progress.md).
 
 ## Folders
 - notes/ — raw ideas, voice notes, links. Read from here when I ask for content.
-
-<!-- Level 2 adds: audience, voice, definition of done, corrections log -->
