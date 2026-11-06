@@ -14,4 +14,4 @@ Current level: 2
 | 21–24 Automate | todo | |
 
 ## Choices
-- Project lives in GitHub repo: petermatt2025/content-os (private)
+- Project lives in GitHub repo: petermatt2025/claude-code-setup (private)
